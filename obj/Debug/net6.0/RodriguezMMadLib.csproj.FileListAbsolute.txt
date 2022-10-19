@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/bin/Debug/net6.0/RodriguezMMadLib
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/bin/Debug/net6.0/RodriguezMMadLib.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/bin/Debug/net6.0/RodriguezMMadLib.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/bin/Debug/net6.0/RodriguezMMadLib.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/bin/Debug/net6.0/RodriguezMMadLib.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/refint/RodriguezMMadLib.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/RodriguezMMadLib.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/Debug/net6.0/ref/RodriguezMMadLib.dll
