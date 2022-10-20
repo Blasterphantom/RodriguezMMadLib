@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/marcelrodriguez/.nuget/packages/": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/RodriguezMMadLib.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/RodriguezMMadLib/RodriguezMMadLib.csproj",
       "projectName": "RodriguezMMadLib",
-      "projectPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/RodriguezMMadLib.csproj",
-      "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
-      "outputPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMMadLib/obj/",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/RodriguezMMadLib/RodriguezMMadLib.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/RodriguezMMadLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
